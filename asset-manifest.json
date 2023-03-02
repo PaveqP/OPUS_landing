@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e58d6a0b.css",
+    "main.js": "/static/js/main.de79d7f7.js",
+    "static/media/author_bg.png": "/static/media/author_bg.a3eb7d95cf0d2bc56bd8.png",
+    "static/media/meeting_background.png": "/static/media/meeting_background.bd95badbf9814d42989a.png",
+    "static/media/fon_connect.png": "/static/media/fon_connect.6ee44d10531c1b478d82.png",
+    "static/media/changeman_2.png": "/static/media/changeman_2.cb313b9fbe38d3a9e3c8.png",
+    "static/media/woman_forcard.png": "/static/media/woman_forcard.31f3d183b8a313fe469c.png",
+    "static/media/conten-author.png": "/static/media/conten-author.e2f90285c72271fc0dc6.png",
+    "static/media/post.png": "/static/media/post.4f678d485601bd02aa15.png",
+    "static/media/owner-image.png": "/static/media/owner-image.732f2b48b03be9a33080.png",
+    "static/media/changeman_1.png": "/static/media/changeman_1.f05c6199bae06e6b92e7.png",
+    "static/media/man_forcard.png": "/static/media/man_forcard.b5c0adfdefea8e713e47.png",
+    "static/media/smart-logo-big.png": "/static/media/smart-logo-big.a095b8f540e65d7556fc.png",
+    "static/media/telegram.png": "/static/media/telegram.3d4c63988e74fbd22933.png",
+    "static/media/vk.png": "/static/media/vk.a7dfaad4f4009e34188c.png",
+    "static/media/email_3.png": "/static/media/email_3.54cc5c63d3964297b833.png",
+    "static/media/logo_title-smart.png": "/static/media/logo_title-smart.f7a1ca4607b2239e8915.png",
+    "index.html": "/index.html",
+    "main.e58d6a0b.css.map": "/static/css/main.e58d6a0b.css.map",
+    "main.de79d7f7.js.map": "/static/js/main.de79d7f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e58d6a0b.css",
+    "static/js/main.de79d7f7.js"
+  ]
+}
