@@ -1,0 +1,53 @@
+
+
+.footer {
+    background-color: #5b41a4;
+    height: 250px;
+    font-family: 'Comfortaa', cursive;
+}
+
+.footer{
+
+}
+  
+.footer__row{
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: calc(150px - 100px);
+}
+  
+.firstline{
+  font-size: 26.6px;
+  color: white;
+}
+
+@media (max-width: 645px){
+  .firstline{
+      font-size: 22px;
+  }
+}
+  
+.secondline{
+  font-size: 26.6px;
+  color: white;
+}
+
+@media (max-width: 645px){
+  .secondline{
+      font-size: 22px;
+  }
+}
+  
+.thirdline{
+  font-size: 33.71px;
+  color: white;
+}
+
+@media (max-width: 645px){
+  .thirdline{
+      font-size: 26px;
+  }
+}
