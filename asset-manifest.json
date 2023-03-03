@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/OPUS_landing/static/css/main.0c8ec946.css",
-    "main.js": "/OPUS_landing/static/js/main.de79d7f7.js",
+    "main.css": "/OPUS_landing/static/css/main.6866241f.css",
+    "main.js": "/OPUS_landing/static/js/main.b3981935.js",
     "static/media/author_bg.png": "/OPUS_landing/static/media/author_bg.a3eb7d95cf0d2bc56bd8.png",
     "static/media/meeting_background.png": "/OPUS_landing/static/media/meeting_background.bd95badbf9814d42989a.png",
     "static/media/fon_connect.png": "/OPUS_landing/static/media/fon_connect.6ee44d10531c1b478d82.png",
@@ -18,11 +18,11 @@
     "static/media/email_3.png": "/OPUS_landing/static/media/email_3.54cc5c63d3964297b833.png",
     "static/media/logo_title-smart.png": "/OPUS_landing/static/media/logo_title-smart.f7a1ca4607b2239e8915.png",
     "index.html": "/OPUS_landing/index.html",
-    "main.0c8ec946.css.map": "/OPUS_landing/static/css/main.0c8ec946.css.map",
-    "main.de79d7f7.js.map": "/OPUS_landing/static/js/main.de79d7f7.js.map"
+    "main.6866241f.css.map": "/OPUS_landing/static/css/main.6866241f.css.map",
+    "main.b3981935.js.map": "/OPUS_landing/static/js/main.b3981935.js.map"
   },
   "entrypoints": [
-    "static/css/main.0c8ec946.css",
-    "static/js/main.de79d7f7.js"
+    "static/css/main.6866241f.css",
+    "static/js/main.b3981935.js"
   ]
 }
